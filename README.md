@@ -1,7 +1,7 @@
 <div align="center">
 <h3>👍Hi</h3>
 <p><a href="https://woong-garden.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm studying frontEnd and backEnd!</p>
+<p>Hi There! I'm studying Frontend and Backend!</p>
 <p> There is no major technology yet.</p>
  
 #
